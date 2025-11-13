@@ -20,9 +20,8 @@ import p_3 from "@/public/p_3.png";
 
 const aboutText = (
   <><p className="mb-3">
-        After graduating with a&nbsp;
-        <span className="font-medium">Baccalaureate in technical technology</span>, I decided to pursue my
-        passion for ******. I enrolled in the Higher Institute 
+        After graduating , I decided to pursue my
+        passion for computer science. I enrolled in the Higher Institute 
       of ****** and learned&nbsp;
         <span className="font-medium">******</span>.&nbsp;
         <span className="italic">My favorite part of ******</span> is the
