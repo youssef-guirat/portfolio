@@ -152,7 +152,7 @@ export const projectsData = [
   description: "User feedback platform with sentiment tracking.",
   tags: ["Next.js", "Tailwind", "MongoDB"],
   imageUrl: p_1,
-  
+  url:"#",
 },
 {
   title: "Freelance Hub",
